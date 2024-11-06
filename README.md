@@ -16,6 +16,8 @@ To run the game, follow these steps:
 2. Open the project in a Java IDE (e.g., IntelliJ IDEA or Eclipse).
 3. Run the `LightEmAll` class to start the game.
 
+---
+
 ## Class: `LightEmAll`
 
 ### Overview
@@ -93,5 +95,6 @@ The `Tester` class includes unit tests to verify that the key features of the ga
 
 ---
 
+## License
 
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
